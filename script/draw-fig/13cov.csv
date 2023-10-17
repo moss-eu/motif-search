@@ -1,0 +1,33 @@
+variable;plant;days;value.mean;value.sd
+TP;Motif Search;a. 8*32;253;0
+TP;Motif Search;b. 16*64;253;0
+TP;Motif Search;c. 32*128;253;0
+TP;Motif Search;d. 64*256;253;0
+TP;Motif Search;e. 128*512;253;0
+TP;Motif Search;f. 256*1024;253;0
+TP;Motif Search;f. 512*2048;253;0
+TP;Motif Search;h. 1024*4096;253;0
+FP;Motif Search;a. 8*32;0;0
+FP;Motif Search;b. 16*64;1;0
+FP;Motif Search;c. 32*128;3;0
+FP;Motif Search;d. 64*256;7;0
+FP;Motif Search;e. 128*512;16;0
+FP;Motif Search;f. 256*1024;32;0
+FP;Motif Search;f. 512*2048;34;0
+FP;Motif Search;h. 1024*4096;35;0
+TP;Minimap2;a. 8*32;250;0
+TP;Minimap2;b. 16*64;250;0
+TP;Minimap2;c. 32*128;250;0
+TP;Minimap2;d. 64*256;249;0
+TP;Minimap2;e. 128*512;249;0
+TP;Minimap2;f. 256*1024;249;0
+TP;Minimap2;f. 512*2048;249;0
+TP;Minimap2;h. 1024*4096;249;0
+FP;Minimap2;a. 8*32;0;0
+FP;Minimap2;b. 16*64;15;0
+FP;Minimap2;c. 32*128;37;0
+FP;Minimap2;d. 64*256;44;0
+FP;Minimap2;e. 128*512;48;0
+FP;Minimap2;f. 256*1024;42;0
+FP;Minimap2;f. 512*2048;40;0
+FP;Minimap2;h. 1024*4096;42;0
